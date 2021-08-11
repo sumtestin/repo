@@ -1,1 +1,1 @@
-alert('wersja 5')
+alert('jeśli widzisz to w pliku HTML, @latest zadziałało poprawnie :D')
