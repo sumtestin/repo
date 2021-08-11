@@ -1,1 +1,1 @@
-alert('wersja 4')
+alert('wersja 5')
