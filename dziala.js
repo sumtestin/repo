@@ -1,1 +1,0 @@
-alert('im a javascript script')
