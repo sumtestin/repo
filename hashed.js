@@ -1,1 +1,1 @@
-alert('lets make a new release')
+alert('IF YOU SEE THIS YOU ARE A GENIUS, AND EVERYTHING IS WORKING')
