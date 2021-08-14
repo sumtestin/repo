@@ -1,1 +1,1 @@
-alert('IF YOU SEE THIS YOU ARE A GENIUS, AND EVERYTHING IS WORKING')
+alert('everything is WORKING!!')
